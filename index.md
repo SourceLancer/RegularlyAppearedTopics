@@ -41,5 +41,7 @@ pending
 在之后的帖子中，会逐一讨论高频算法的模板及适合的应用场景。
 
 [主页](https://sourcelancer.github.io/MINE/)
+
 上一篇： [面试技巧篇 – 编码风格 (Coding Style)](https://sourcelancer.github.io/Coding-Skills/)
+
 下一篇： [面试技巧篇 – Behavior Question完全总结及解析](https://sourcelancer.github.io/BehaviorQuestions/)
