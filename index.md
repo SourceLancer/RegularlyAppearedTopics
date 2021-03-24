@@ -39,3 +39,5 @@ pending
 
 ## 总结
 在之后的帖子中，会逐一讨论高频算法的模板及适合的应用场景。
+
+[主页](https://sourcelancer.github.io/MINE/)
